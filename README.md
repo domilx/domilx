@@ -2,7 +2,6 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-[![Me](https://media.discordapp.net/attachments/950860880600498246/961797984859852810/DSCN6966.JPG?width=915&height=686)](https://media.discordapp.net/attachments/950860880600498246/961797984859852810/DSCN6966.JPG?width=915&height=686)
 
 
 ```python
@@ -29,6 +28,12 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+## 👋 What I look like
+
+<img src="https://media.discordapp.net/attachments/950860880600498246/961797984859852810/DSCN6966.JPG?width=915&height=686" alt="me" style="width:400px;"/>
+
+ > Me in an interview during the winning streak in 2022 at the FIRST Robotics Competitions. 
 
 ## 🌐 Webistes
 
