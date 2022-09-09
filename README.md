@@ -40,6 +40,7 @@ me.say_hi()
 - Personal website: https://domidev.net/
 - First Robotics Team 3990: https://team3990.com/
 - Editor: https://editor.domidev.net/
+- Project Focal: https://projectfocal.ca/
 
 
 ## 🔧 Technologies & Tools
@@ -52,6 +53,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
@@ -67,11 +69,11 @@ me.say_hi()
 <a href="https://github.com/domilx/TechPortailSwiftUI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=TechPortailSwiftUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TechPortailSwiftUI" />
     
-<a href="https://github.com/domilx/ProjetBocal-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=ProjetBocal-API&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ProjetBocal-API" />
+<a href="https://github.com/ProjectFocal/Focal-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectFocal&repo=Focal-React&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Focal-React" />
 </a>
-
     
-<a href="https://github.com/domilx/ProjetBocal-Angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=ProjetBocal-Angular&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ProjetBocal-Angular" />
+<a href="https://github.com/ProjectFocal/Focal-Api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectFocal&repo=Focal-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Focal-Api" />
 </a>
+    
