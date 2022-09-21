@@ -9,7 +9,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class RoboticsStudent:
 
     def __init__(self):
         self.name = "Domenico Valentino"
@@ -25,7 +25,7 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = RoboticsStudent()
 me.say_hi()
 ```
 
