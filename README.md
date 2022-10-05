@@ -60,20 +60,16 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
 
 
-## 🗂️ Highlight Projects
+## 🗂️ Top Projects
 
-<a href="https://github.com/domilx/devfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=devfolio&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="devfolio" />
-</a>
+### [Scout](https://github.com/samp42/Scout)
+It consists of twp apps
+ - Flutter app - to collect data from FIRST Robotics matches
+ - iOS native app - to compile and analyze data for FIRST Robotics matches
 
-<a href="https://github.com/domilx/TechPortailSwiftUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=TechPortailSwiftUI&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TechPortailSwiftUI" />
-    
-<a href="https://github.com/ProjectFocal/Focal-React">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectFocal&repo=Focal-React&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Focal-React" />
-</a>
-    
-<a href="https://github.com/ProjectFocal/Focal-Api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectFocal&repo=Focal-Api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Focal-Api" />
-</a>
+<div>
+  <img src="https://user-images.githubusercontent.com/26767411/175855877-a3207829-7d91-4b4b-95b1-e0fae375233b.png" title="Scout1" alt="Scout1" width="200"/>
+  <img src="https://user-images.githubusercontent.com/26767411/175855904-03899d99-3f02-4617-9010-779fdccae4e9.png" title="Scout2" alt="Scout2" width="200"/>
+  <img src="https://user-images.githubusercontent.com/26767411/175856247-8198d0a5-86d8-40a3-9741-237d8ce8158a.png" title="ScoutInsights" alt="ScoutInsights" width="400"/>
+</div>
     
