@@ -62,7 +62,7 @@ me.say_hi()
 
 ## 🗂️ Top Projects
 
-### [Scout](https://github.com/samp42/Scout)
+### [Scout](https://github.com/domilx/TechScout)
 It consists of twp apps
  - Flutter app - to collect data from FIRST Robotics matches
  - iOS native app - to compile and analyze data for FIRST Robotics matches
