@@ -29,12 +29,6 @@ me = RoboticsStudent()
 me.say_hi()
 ```
 
-## 👋 What I look like
-
-<img src="https://media.discordapp.net/attachments/950860880600498246/961797984859852810/DSCN6966.JPG?width=915&height=686" alt="me" style="width:400px;"/>
-
- > Me in an interview during the winning streak in 2022 at the FIRST Robotics Competitions. 
-
 ## 🌐 Webistes
 
 - Personal website: https://domidev.net/
