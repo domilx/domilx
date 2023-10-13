@@ -18,6 +18,7 @@ class RoboticsStudent:
 
     def school(self):
         self.school = "Collège Regina Assumpta"
+        self.grade = 11
         self.extracurricular = "First Robotics Competition"
         self.extracurricular.info = ["Robot Design", "Robot Programming", "Java Programming", "React Native"]
 
@@ -34,7 +35,7 @@ me.say_hi()
 - Personal website: https://domidev.net/
 - First Robotics Team 3990: https://team3990.com/
 - Editor: https://editor.domidev.net/
-- Project Focal: https://projectfocal.ca/
+- Moments: https://momntsapp.com/
 
 
 ## 🔧 Technologies & Tools
@@ -52,32 +53,3 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-
-
-## 🗂️ Top Projects
-
-### [Scout](https://github.com/domilx/TechScout)
-It consists of twp apps
- - Flutter app - to collect data from FIRST Robotics matches
- - iOS native app - to compile and analyze data for FIRST Robotics matches
-
-<div>
-  <img src="https://user-images.githubusercontent.com/26767411/175855877-a3207829-7d91-4b4b-95b1-e0fae375233b.png" title="Scout1" alt="Scout1" width="200"/>
-  <img src="https://user-images.githubusercontent.com/26767411/175855904-03899d99-3f02-4617-9010-779fdccae4e9.png" title="Scout2" alt="Scout2" width="200"/>
-  <img src="https://user-images.githubusercontent.com/26767411/175856247-8198d0a5-86d8-40a3-9741-237d8ce8158a.png" title="ScoutInsights" alt="ScoutInsights" width="400"/>
-</div>
-
-
-### [Moments](https://github.com/Moment-Mobile-App)
-Social media app development team Montreal, QC
-
-
-<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/12da4b84-3ac3-4e1c-bd33-6b278e83ac55)" width="200" height="400" />
-
-<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/3230a973-fc72-4457-8248-760dafb3ea22)" width="200" height="400" />
-
-<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/ee88d7fb-eb8b-4a3b-87b9-a74da7e15852)" width="200" height="400" />
-
-<img src="https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/Moment-Mobile-App/.github/assets/88948653/1170105e-4943-49c8-895f-1c0f61413902)" width="200" height="400" />
-
-![image](https://github.com/Moment-Mobile-App/.github/assets/88948653/9c3d868e-60a1-43c7-8045-8a27e7768663)
