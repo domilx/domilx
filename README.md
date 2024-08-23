@@ -17,10 +17,9 @@ class RoboticsStudent:
         self.language_spoken = ["en_CA", "en_US", "fr_CA", "fr_FR", "it_IT" , "es_ES"]
 
     def school(self):
-        self.school = "Collège Regina Assumpta"
-        self.grade = 11
+        self.school = "Dawson College"
         self.extracurricular = "First Robotics Competition"
-        self.extracurricular.info = ["Robot Design", "Robot Programming", "Java Programming", "React Native"]
+        self.extracurricular.info = ["Robot Design", "Robot Programming", "Java Programming", "React Native", "Swift"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -35,7 +34,7 @@ me.say_hi()
 - Personal website: https://domidev.net/
 - First Robotics Team 3990: https://team3990.com/
 - Editor: https://editor.domidev.net/
-- Moments: https://momntsapp.com/
+- Convoy: https://cnvyapp.com/
 
 
 ## 🔧 Technologies & Tools
