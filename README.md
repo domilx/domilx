@@ -4,14 +4,14 @@
 
 I write software for DJ equipment, robots, and lab instruments.
 
-**Computer Engineering at McGill · Co-founder of Kaskaraa Instruments**
+**Computer Engineering · Co-founder of Kaskaraa Instruments**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/domenico-valentino-686454305/)
 [![Email](https://img.shields.io/badge/Email-253047?style=for-the-badge)](mailto:domenico2727@icloud.com)
 [![OverCue](https://img.shields.io/badge/OverCue-7963F4?style=for-the-badge)](https://overcue.gg)
 [![Kaskaraa](https://img.shields.io/badge/Kaskaraa-168B80?style=for-the-badge)](https://kaskaraa.com)
 
-Looking for an internship **May–August 2027**. Based in Montréal, open to relocation.
+Based in Montréal, Canada.
 
 </div>
 
@@ -24,18 +24,18 @@ Looking for an internship **May–August 2027**. Based in Montréal, open to rel
 </td>
 <td width="50%" valign="top">
 <h3>FIRST Robotics</h3>
-<p>Led 10 programmers from 2022 to 2025. Wrote competition robot software for teams 3990 and 9406, built scouting apps, and taught beginners to write robot controls.</p>
+<p>Led a team of 10 programmers. Wrote competition robot software for teams 3990 and 9406, built scouting apps, and taught beginners to write robot controls.</p>
 <p><a href="https://github.com/domilx/TechScout">TechScout</a> · <a href="https://github.com/domilx/TechInsights">TechInsights</a> · <a href="https://www.youtube.com/watch?v=mmGof8gwpak">Match video</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://kaskaraa.com">Kaskaraa Instruments</a></h3>
-<p>We are building prototype automated microtomes for pathology. I handle software and embedded electronics, including UI, motor control, safety logic, and AI imaging. I also manage interns.</p>
+<p>My work includes software and embedded electronics for prototype automated microtomes: UI, motor control, safety logic, and AI imaging, alongside intern management.</p>
 </td>
 <td width="50%" valign="top">
 <h3>6502 Computer</h3>
-<p>Built a working 6502 computer in summer 2026. Wired the CPU, memory, clock, and I/O, then brought it up with ROM programming and assembly.</p>
+<p>Built a working 6502 computer. Wired the CPU, memory, clock, and I/O, then brought it up with ROM programming and assembly.</p>
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@ Looking for an internship **May–August 2027**. Based in Montréal, open to rel
 <details>
 <summary>Background and project notes</summary>
 
-I'm in my first university semester, U1 at McGill after CEGEP. I also work at Apple as a Product Specialist.
+My background includes studying Computer Engineering at McGill after CEGEP and working at Apple as a Product Specialist.
 
 At OverCue, collaborators contributed testing on equipment I did not have and related bug fixes. My FRC work included delegating tasks and reviewing teammates' pull requests alongside writing and testing code.
 
