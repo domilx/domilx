@@ -1,52 +1,71 @@
-# Hi, I'm Domenico
+![Domenico Valentino | Computer Engineering at McGill](assets/banner.svg)
 
-I'm a Computer Engineering student at **McGill University** and a co-founder of **Kaskaraa Instruments**, based in Montréal. I build software that connects user interfaces, signal processing, and physical hardware.
+<div align="center">
 
-I'm looking for a **summer 2027 internship** in software engineering, embedded systems, or robotics. Available **May–August**, and open to relocation.
+**Building across software and hardware. Co-founder at Kaskaraa Instruments.**
 
-## What I'm building
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/domenico-valentino-686454305/)
+[![Email](https://img.shields.io/badge/Email-253047?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domenico2727@icloud.com)
+[![OverCue](https://img.shields.io/badge/OverCue-7963F4?style=for-the-badge)](https://overcue.gg)
+[![Kaskaraa](https://img.shields.io/badge/Kaskaraa-168B80?style=for-the-badge)](https://kaskaraa.com)
 
-### OverCue — DJ software and firmware
+**Summer 2027 internships · Software / Embedded / Robotics**  
+Available May–August · Open to relocation
 
-I implemented much of [OverCue](https://overcue.gg), a publicly released project spanning desktop applications, DJ equipment integration, and external stem-processing apps.
+</div>
 
-- Built core **Rust/Tauri and React** components for macOS and Windows music-library preparation and stem separation, including **Swift/Core ML** inference integration.
-- Developed **C/C++ audio extensions for ARM64 Linux players**, working with atomic synchronization, bounded buffers, resampling, and playback transitions.
-- Added **DJM mixer integration** so knobs can control stems on CDJs and switch back to standard EQ.
-- Tested audio processing for concurrency, cancellation, malformed inputs, and loudness limits. Collaborators contributed equipment testing and related bug fixes.
+### Selected work
 
-### Kaskaraa Instruments — pathology automation
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎛️ <a href="https://overcue.gg">OverCue</a></h3>
+<p>Public DJ apps and firmware. Stem separation, ARM64 audio systems, and DJM/CDJ control integration.</p>
+<sub>Rust · C/C++ · React · Tauri · Core ML</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 FIRST Robotics</h3>
+<p>Led 10 programmers. Competition-deployed autonomous controls, vision localization, and scouting apps.</p>
+<sub>Java · WPILib · React Native · Firebase</sub>
+<p><a href="https://github.com/domilx/TechScout">TechScout</a> · <a href="https://github.com/domilx/TechInsights">TechInsights</a> · <a href="https://www.youtube.com/watch?v=mmGof8gwpak">Competition video</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🔬 <a href="https://kaskaraa.com">Kaskaraa Instruments</a></h3>
+<p>Co-founder &amp; software lead. Prototype pathology instruments, motor control, safety logic, AI imaging, and electronics.</p>
+<sub>Embedded systems · Instrument software · Intern management</sub>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 6502 Computer</h3>
+<p>Built a working computer from CPU and memory wiring through ROM programming and assembly.</p>
+<sub>Digital hardware · Assembly · Summer 2026</sub>
+</td>
+</tr>
+</table>
 
-At [Kaskaraa Instruments](https://kaskaraa.com), I lead software development for prototype automated microtomes, instruments that prepare thin tissue sections for pathology.
+<div align="center">
 
-My work spans the user interface, motor control, safety logic, AI imaging, and embedded electronics. I also manage interns and work with our co-founders on the business side of the company.
+### Tools I work with
 
-### FIRST Robotics — controls, tools, and teaching
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-222222?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-253047?style=flat-square&logo=linux&logoColor=white)
 
-From **2022 to 2025**, I led a team of **10 programmers** and wrote robot software for **FRC teams 3990 and 9406**. My work included competition-deployed Java/WPILib controls, autonomous driving, vision-based localization, and coordinated scoring mechanisms.
+</div>
 
-I delegated tasks, reviewed pull requests, tested the robots, and taught programming classes to students with no prior experience who went on to write robot control systems.
+<details>
+<summary><b>A little more about my work</b></summary>
 
-- [**TechScout**](https://github.com/domilx/TechScout): React Native scouting app for offline match and pit data collection and QR-code export. [App Store](https://apps.apple.com/in/app/tech-scout/id6446188906)
-- [**TechInsights**](https://github.com/domilx/TechInsights): companion app for collecting and analyzing scouting data.
-- [**2025 Championship match**](https://www.youtube.com/watch?v=mmGof8gwpak): Team 3990 in competition.
+- **OverCue:** Implemented much of the software, including desktop components, audio extensions, and DJM knob control of CDJ stems with switching back to regular EQ. External apps handle stem processing. Collaborators contributed equipment testing and related bug fixes.
+- **FRC, 2022–2025:** Wrote robot software for teams 3990 and 9406, reviewed pull requests, tested controls, and taught beginners who went on to develop robot control systems.
+- **Apple:** Product Specialist, explaining technical products in plain language and serving as a resource for colleagues and customers.
 
-### 6502 computer — hardware bring-up
+Some projects are closed source for IP and security reasons. Public repositories, product pages, and competition footage provide selected examples of my work.
 
-In summer 2026, I built and programmed a working **6502 computer**, wiring the CPU, memory, clock/reset, address decoding, and I/O, then bringing it up through ROM programming and assembly.
-
-## Beyond the code
-
-As an **Apple Product Specialist**, I explain technical products in plain language, help colleagues work through customer questions, and resolve difficult interactions by making the reasoning behind recommendations clear. Teaching new FRC programmers taught me the same habit: start with what someone understands and build from there.
-
-## Technologies I work with
-
-**Languages:** C/C++, Rust, Java, TypeScript/JavaScript, Python, Swift, SQL, 6502 assembly  
-**Applications:** React, Tauri, React Native, Node.js, Firebase  
-**Systems:** Linux, Git, audio DSP, concurrency, WPILib, PID control, sensor integration
-
-Some of my engineering projects are closed source for IP and security reasons. The public repositories here show additional work; product pages and competition footage provide context for selected private projects.
-
-## Get in touch
-
-[LinkedIn](https://www.linkedin.com/in/domenico-valentino-686454305/) · [Email](mailto:domenico2727@icloud.com)
+</details>
