@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Domenico Valentino. Software, embedded systems, robotics. McGill University.">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#15152b"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#58e8d0"/><stop offset="1" stop-color="#9890ff"/></linearGradient>
+ <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7788aa" stroke-opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="50" y="48" width="5" height="205" rx="2" fill="url(#accent)"/>
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="85" y="80" fill="#58e8d0" font-size="15" font-weight="700" letter-spacing="3">COMPUTER ENGINEERING @ McGILL</text>
+ <text x="82" y="151" fill="#f1f5ff" font-size="54" font-weight="700" letter-spacing="-1">Domenico Valentino</text>
+ <text x="85" y="196" fill="#bac4df" font-size="22">Software · Embedded systems · Robotics</text>
+ <text x="85" y="244" fill="#7f8caa" font-size="15">MONTRÉAL, CANADA</text>
+</g>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55">
+ <rect x="968" y="94" width="95" height="95" rx="12"/>
+ <rect x="994" y="120" width="43" height="43" rx="4"/>
+ <path d="M 983 94 V 69 H 935 M 1008 94 V 49 H 1100 M 1038 94 V 72 H 1128 M 1063 111 H 1135 M 1063 140 H 1170 M 1063 172 H 1135 V 235 M 1040 189 V 237 H 1067 M 1009 189 V 256 H 937 M 980 189 V 218 H 926 M 968 115 H 926 V 99 M 968 150 H 904 M 968 175 H 936"/>
+</g>
+<g fill="#58e8d0" opacity=".7"><circle cx="935" cy="69" r="4"/><circle cx="1100" cy="49" r="4"/><circle cx="1170" cy="140" r="4"/><circle cx="937" cy="256" r="4"/><circle cx="904" cy="150" r="4"/></g>
+</svg>
