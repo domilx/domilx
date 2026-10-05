@@ -2,51 +2,44 @@
 
 <div align="center">
 
-**Building across software and hardware. Co-founder at Kaskaraa Instruments.**
+Computer Engineering at McGill. Co-founder of Kaskaraa Instruments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/domenico-valentino-686454305/)
-[![Email](https://img.shields.io/badge/Email-253047?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domenico2727@icloud.com)
+[![Email](https://img.shields.io/badge/Email-253047?style=for-the-badge)](mailto:domenico2727@icloud.com)
 [![OverCue](https://img.shields.io/badge/OverCue-7963F4?style=for-the-badge)](https://overcue.gg)
 [![Kaskaraa](https://img.shields.io/badge/Kaskaraa-168B80?style=for-the-badge)](https://kaskaraa.com)
 
-**Summer 2027 internships · Software / Embedded / Robotics**  
-Available May–August · Open to relocation
+Looking for a software, embedded, or robotics internship for **summer 2027**.  
+Based in Montréal. Available May–August and open to moving.
 
 </div>
-
-### Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🎛️ <a href="https://overcue.gg">OverCue</a></h3>
-<p>Public DJ apps and firmware. Stem separation, ARM64 audio systems, and DJM/CDJ control integration.</p>
+<h3><a href="https://overcue.gg">OverCue</a></h3>
+<p>I wrote most of the software for our DJ apps and firmware, including audio processing and mixer integration. DJM knobs can control stems on CDJs and switch back to normal EQ.</p>
 <sub>Rust · C/C++ · React · Tauri · Core ML</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🤖 FIRST Robotics</h3>
-<p>Led 10 programmers. Competition-deployed autonomous controls, vision localization, and scouting apps.</p>
-<sub>Java · WPILib · React Native · Firebase</sub>
-<p><a href="https://github.com/domilx/TechScout">TechScout</a> · <a href="https://github.com/domilx/TechInsights">TechInsights</a> · <a href="https://www.youtube.com/watch?v=mmGof8gwpak">Competition video</a></p>
+<h3>FIRST Robotics</h3>
+<p>I led 10 programmers and wrote robot software for teams 3990 and 9406 from 2022 to 2025. I also taught programming and built our scouting apps.</p>
+<p><a href="https://github.com/domilx/TechScout">TechScout</a> · <a href="https://github.com/domilx/TechInsights">TechInsights</a> · <a href="https://www.youtube.com/watch?v=mmGof8gwpak">Match video</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🔬 <a href="https://kaskaraa.com">Kaskaraa Instruments</a></h3>
-<p>Co-founder &amp; software lead. Prototype pathology instruments, motor control, safety logic, AI imaging, and electronics.</p>
-<sub>Embedded systems · Instrument software · Intern management</sub>
+<h3><a href="https://kaskaraa.com">Kaskaraa Instruments</a></h3>
+<p>We are developing automated microtomes for pathology. I handle software, motor control, safety logic, AI imaging, and electronics, and manage our interns.</p>
 </td>
 <td width="50%" valign="top">
-<h3>🧠 6502 Computer</h3>
-<p>Built a working computer from CPU and memory wiring through ROM programming and assembly.</p>
-<sub>Digital hardware · Assembly · Summer 2026</sub>
+<h3>6502 Computer</h3>
+<p>My summer 2026 project: a working 6502 computer. I wired the hardware and brought it up with ROM programming and assembly.</p>
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-### Tools I work with
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-222222?style=flat-square&logo=rust&logoColor=white)
@@ -60,12 +53,14 @@ Available May–August · Open to relocation
 </div>
 
 <details>
-<summary><b>A little more about my work</b></summary>
+<summary>More about the projects</summary>
 
-- **OverCue:** Implemented much of the software, including desktop components, audio extensions, and DJM knob control of CDJ stems with switching back to regular EQ. External apps handle stem processing. Collaborators contributed equipment testing and related bug fixes.
-- **FRC, 2022–2025:** Wrote robot software for teams 3990 and 9406, reviewed pull requests, tested controls, and taught beginners who went on to develop robot control systems.
-- **Apple:** Product Specialist, explaining technical products in plain language and serving as a resource for colleagues and customers.
+**OverCue** is publicly released. My work includes the Rust/Tauri desktop app, Swift/Core ML integration, and C/C++ audio extensions for ARM64 Linux players. External apps handle stem processing. Other contributors helped test equipment I did not have and fix related bugs.
 
-Some projects are closed source for IP and security reasons. Public repositories, product pages, and competition footage provide selected examples of my work.
+**FRC** meant writing and testing autonomous routines, vision localization, and mechanism controls in Java/WPILib. I delegated work, reviewed pull requests, and taught students with no programming experience who later wrote robot control systems.
+
+I also work at **Apple** as a Product Specialist, helping customers understand products and helping colleagues with technical questions.
+
+Some of my projects are closed source for IP and security reasons. I link to public code and demos where I can.
 
 </details>
