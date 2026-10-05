@@ -4,14 +4,13 @@
 
 I write software for DJ equipment, robots, and lab instruments.
 
-**Computer Engineering · Co-founder of Kaskaraa Instruments**
+**Co-founder of Kaskaraa Instruments**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/domenico-valentino-686454305/)
 [![Email](https://img.shields.io/badge/Email-253047?style=for-the-badge)](mailto:domenico2727@icloud.com)
 [![OverCue](https://img.shields.io/badge/OverCue-7963F4?style=for-the-badge)](https://overcue.gg)
 [![Kaskaraa](https://img.shields.io/badge/Kaskaraa-168B80?style=for-the-badge)](https://kaskaraa.com)
 
-Based in Montréal, Canada.
 
 </div>
 
@@ -19,23 +18,23 @@ Based in Montréal, Canada.
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://overcue.gg">OverCue</a></h3>
-<p>Public DJ software and firmware. I wrote most of the software, including DJM knob control of stems on CDJs, with switching back to regular EQ. External apps handle stem processing.</p>
+<p>I wrote most of the software for our public DJ apps and firmware. Added DJM knob control of CDJ stems with switching back to regular EQ.</p>
 <sub>Rust · C/C++ · React · Tauri · Core ML</sub>
 </td>
 <td width="50%" valign="top">
 <h3>FIRST Robotics</h3>
-<p>Led a team of 10 programmers. Wrote competition robot software for teams 3990 and 9406, built scouting apps, and taught beginners to write robot controls.</p>
+<p>Led 10 programmers and wrote competition robot software for teams 3990 and 9406. Built scouting apps and taught beginners to write robot controls.</p>
 <p><a href="https://github.com/domilx/TechScout">TechScout</a> · <a href="https://github.com/domilx/TechInsights">TechInsights</a> · <a href="https://www.youtube.com/watch?v=mmGof8gwpak">Match video</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://kaskaraa.com">Kaskaraa Instruments</a></h3>
-<p>My work includes software and embedded electronics for prototype automated microtomes: UI, motor control, safety logic, and AI imaging, alongside intern management.</p>
+<p>I develop software and electronics for prototype pathology instruments. My work covers UI, motor control, safety logic, AI imaging, and intern management.</p>
 </td>
 <td width="50%" valign="top">
 <h3>6502 Computer</h3>
-<p>Built a working 6502 computer. Wired the CPU, memory, clock, and I/O, then brought it up with ROM programming and assembly.</p>
+<p>Built and wired a working 6502 computer. Brought it up with ROM programming and assembly.</p>
 </td>
 </tr>
 </table>
@@ -56,7 +55,7 @@ Based in Montréal, Canada.
 
 My background includes studying Computer Engineering at McGill after CEGEP and working at Apple as a Product Specialist.
 
-At OverCue, collaborators contributed testing on equipment I did not have and related bug fixes. My FRC work included delegating tasks and reviewing teammates' pull requests alongside writing and testing code.
+At OverCue, external apps handle stem processing. Collaborators contributed testing on equipment I did not have and related bug fixes. My FRC work included delegating tasks and reviewing teammates' pull requests alongside writing and testing code.
 
 Some projects are closed source for IP and security reasons. The links above show public code, products, and competition footage.
 
